@@ -1,13 +1,15 @@
 Añadir logotipos a TV-Headend 3.8 y superiores.
-Abra el interface Web o WebUI, esto lo podrá hacer tecleando la IP de su equipo que contiene TV-Headend instalado; Ejemplo: http://192.168.1.34:9981
+Abra el interface Web o Web UI, esto lo podrá hacer tecleando la IP del equipo que contiene TV-Headend instalado; Ejemplo: http://192.168.1.34:9981
 A continuación, vaya a Configuración >> General >> "Base" y busque Picon. (Base está entre comillado porque esta opción puede no estar en todas las versiones)
 Allí marcamos: 
 Prefer picon over channel name. CHECKEADA, MARCADA o VERIFICADA como queramos llamarlo.
-Channel icon path (see Help): aquí pondremos: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/Spain/384x384/png/%C.png
+Channel icon path (see Help): aquí pondremos: https://raw.githubusercontent.com/maincenter/Logotipos-TV/main/<transparentes>/%C.png
 
-OJO, respetar MAYÚSCULAS Y MINÚSCULAS.
+OJO, respetar MAYÚSCULAS Y MINÚSCULAS y fijaros en al URL, el campo <transparente> quita los simbolos <> están colocados por que puedes decidir si quieres el fondo del icono en blanco o transparente, si lo quieres en blanco sustituye transparente por blanco.
 
-Con todo esto, actualizamos en la opción de Channels / EPG >> Channels. Ahora en la parte inferior derecha, marcamos donde dice cuantos canales mostrar, Marcamos ALL para que nos muestre todos.
+-el directorio blanco no contiene iconos actualmente.
+
+Dicho todo esto, actualizamos en la opción de Channels / EPG >> Channels. Ahora en la parte inferior derecha, marcamos donde dice cuantos canales mostrar, Marcamos ALL para que nos muestre todos.
 Una vez que nos esta indicando todos los canales, pulsamos en el primero de la lista en cima de su nombre, para que se quede en AZUL, a continuación, vamos al final de la lista y con la tecla CTRL+SHILF hacemos click en el último canal, de este modos se nos marcan todos los canales en azul.
 Ahora vamos a la parte superior, con cuidado de no hacer click en ningún sitio por error o perderemos la selección de los canales y tendremos que repetir el proceso.
 En la parte superior, pulsamos en: Reset icon, a continuación desaparecerán los links en caso de que tuviéramos alguno.
