@@ -7,4 +7,4 @@ Este proyecto está pensado para poder ofrecer a los usuarios una forma fácil y
 Se proporcionará una lista de los links directos a cada logotipo, de tal manera que se puédan linkear directamente y sea necesario el almacenamiento local de los mismos.
 En caso de ser colocado en un dispositivo sin acceso a internet, se recomienda la descarga del contenido a su unidad local.
 --------------------------------------------------------------------------------------------------------------------
-Actualizado el 20 de Mayo de 2016
+Actualizado el 2 de Junio de 2016
