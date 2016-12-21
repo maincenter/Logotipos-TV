@@ -20,7 +20,7 @@ Instalación de las URL's para los logotipos bajo TVHeadend:
 
 2- En donde dice: "Channel icon path" Indicaremos la URL de los iconos. (URL's Proporcionadas al final)
 
-3- En el campo: "Channel icon name scheme" marcaremos "All lower-case" para adaptarlo a este repositorio.
+3- En el campo: "Channel icon name scheme" marcaremos "No scheme" para adaptarlo a este repositorio.
 El resto de opciones las dejaremos tal cual están y en la parte superior iquierda pulsaremos en "SAVE" para que los cambios tengan efecto.
 
 -Ahora vamos a: "Configuration --> General --> Image cache" en este menú marcaremos "Enabled" y "Ignore invalid SSL certificate" el resto lo dejamos tal cual está por defecto y volvemos a darle a "Save" para guardar los cambios.
