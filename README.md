@@ -35,4 +35,5 @@ URL's Logotipos.
 -Logos Actualizados el 17 de Noviembre de 2017
 
 2- Movistar-TV o IPTV: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/development/IPTV/MoviStar%2B/%C.png (en desarrollo)
+
 -Logos Actualizados el 21 de Diciembre de 2016
