@@ -32,7 +32,7 @@ Marcamos uno a uno todos los canales o podemos valernos de las teclas "Shift + C
 URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
 1- DVB-T o TDT: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/%C.png
+-Logos Actualizados el 17 de Noviembre de 2017
 
 2- Movistar-TV o IPTV: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/development/IPTV/MoviStar%2B/%C.png (en desarrollo)
-
--Actualizado el 21 de Diciembre de 2016
+-Logos Actualizados el 21 de Diciembre de 2016
