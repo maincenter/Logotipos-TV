@@ -33,7 +33,7 @@ URL's Logotipos.
 --------------------------------------------------------------------------------------------------------------------
 1- DVB-T o TDT: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/main/transparentes/%C.png
 
--Logos Actualizados el 1 de Julio de 2018
+-Logos Actualizados el 23 de Marzo de 2019
 
 2- Movistar-TV o IPTV: https://raw.githubusercontent.com/maincenter/Logotipos-TV/master/development/IPTV/MoviStar%2B/%C.png (en desarrollo)
 
